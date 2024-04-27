@@ -18,7 +18,7 @@ parking_lot = "0.12.1"
 serde = { version = "1.0" }
 serde_with = "3.6.1"
 bson = "2.9.0"
-futures-loco-protocol = "0.4.0"
+futures-loco-protocol = { git="https://github.com/5-23/futures-loco-protocol" }
 thiserror = "1.0"
 async-stream = "0.3.5"
 pin-project-lite = "0.2.13"

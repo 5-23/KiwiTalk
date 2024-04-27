@@ -1387,9 +1387,8 @@ dependencies = [
 
 [[package]]
 name = "futures-loco-protocol"
-version = "0.4.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d2e01bd62aeea8e91616b5036ebfeba7a33ccbc7cf192e29494f9147e2aba147"
+version = "0.4.1"
+source = "git+https://github.com/5-23/futures-loco-protocol#5fe7bfeb1285a3d4a1f24e2749294aa78c48ab39"
 dependencies = [
  "flume",
  "futures-core",
